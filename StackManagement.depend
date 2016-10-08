@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1331549366 source:c:\users\gabriel\documents\schule\apr\c++\workspace\datum\stackmanagement\src\mystack.cpp
+	"MyStack.h"
+	"MyStackElement.h"
+
+1331549959 c:\users\gabriel\documents\schule\apr\c++\workspace\datum\stackmanagement\include\mystack.h
+	"MyStackElement.h"
+
+1331549959 c:\users\gabriel\documents\schule\apr\c++\workspace\datum\stackmanagement\include\mystackelement.h
+
+1331549254 source:c:\users\gabriel\documents\schule\apr\c++\workspace\datum\stackmanagement\src\mystackelement.cpp
+	"MyStackElement.h"
+
+1331549433 source:c:\users\gabriel\documents\schule\apr\c++\workspace\datum\stackmanagement\main.cpp
+	<iostream>
+	"MyStack.h"
+	"MyStackElement.h"
+
